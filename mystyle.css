@@ -1,0 +1,27 @@
+table, th, td {
+    border: 2px solid;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #000000;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+}
+th {
+    background-color: #588c7e;
+    color: black;
+}
+tr:nth-child(even) {
+    background-color: #a7bcc2;
+
+}
+
+input {
+    width: 100%;
+    color: #000000;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+}
